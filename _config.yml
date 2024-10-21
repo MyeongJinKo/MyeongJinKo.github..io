@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "GIS 데이터 분석 With Python"
 title_separator          : "-"
-subtitle                 : #
+subtitle                 : "GIS PYTHON"
 name                     : "MyeongJin Ko"
-description              : "An amazing website."
+description              : "IT BLOG"
 url                      : "https://MyeonJinKo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
