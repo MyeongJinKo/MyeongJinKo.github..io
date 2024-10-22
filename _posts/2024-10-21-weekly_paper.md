@@ -1,7 +1,7 @@
 ---
 title: "절대경로와 상대경로는 무엇인가?"
 author : Myeong Jin Ko
-date : 2024-10-22 23:46:00 UTC+9
+date : 2024-10-21 23:46:00 UTC+9
 tags: [Codeit_WeeklyPaper]
 ---
 
