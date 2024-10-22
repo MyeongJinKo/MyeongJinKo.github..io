@@ -18,11 +18,16 @@ tags: [Codeit_WeeklyPaper]
 처럼 드라이브 문자 뒤에 역슬래시`\`으로 표시된다.
 
 절대경로는 이 루트 디렉터리부터 시작해서 나타내고 싶은 경로까지 전부 지정하는 경로를 말한다. 
-**예시** `C:\Users\gkdis\PythonMLWorkspace\Titanic\data` 은 내가 작업했던 Titanic(캐글데이터)의 경로이며, 같은 컴퓨터 안에서 어떤 폴더에서든 이 경로를 입력하면 data 폴더가 있는 디렉터리로 이동하게 된다.
+
+**예시**
+`C:\Users\gkdis\PythonMLWorkspace\Titanic\data` 은 내가 작업했던 Titanic(캐글데이터)의 경로이며, 같은 컴퓨터 안에서 어떤 폴더에서든 이 경로를 입력하면 data 폴더가 있는 디렉터리로 이동하게 된다.
+
 ---
 ### 상대경로
 
 **상대경로**(relative path)는 쉽게 말해 현재 내 디렉터리를 기준으로 상대적인 위치를 뜻한다.
 상대경로는 절대경로에 비해 폴더 구성이 상대적으로 지정되어 있어 폴더를 옮길 때 폴더 별로 재설정이 필요없다. 대신 폴더의 전체적인 구성을 한눈에 확인하기 어려운 단점이 있다.
-**예시** 현재 내가 열어놓은 폴더는 `data`폴더이고 이 `data`폴더 안의 `train.csv`파일을 참조하는 방법은 `data/train.csv`이다.
+
+**예시** 
+현재 내가 열어놓은 폴더는 `data`폴더이고 이 `data`폴더 안의 `train.csv`파일을 참조하는 방법은 `data/train.csv`이다.
 만약 `data`의 상위폴더인 `Titanic`폴더에서 `submission.csv`파일을 참조하고 싶을 때에는 `../submission.csv` 를 입력하면 된다.
