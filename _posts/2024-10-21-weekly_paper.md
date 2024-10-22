@@ -22,7 +22,8 @@ tags: [Codeit_WeeklyPaper]
 **예시**
 `C:\Users\gkdis\PythonMLWorkspace\Titanic\data` 은 내가 작업했던 Titanic(캐글데이터)의 경로이며, 같은 컴퓨터 안에서 어떤 폴더에서든 이 경로를 입력하면 data 폴더가 있는 디렉터리로 이동하게 된다.
 
----
+--------
+
 ### 상대경로
 
 **상대경로**(relative path)는 쉽게 말해 현재 내 디렉터리를 기준으로 상대적인 위치를 뜻한다.
