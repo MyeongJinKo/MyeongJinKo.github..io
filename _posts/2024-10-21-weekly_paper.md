@@ -54,6 +54,8 @@ tags: [Codeit_WeeklyPaper]
 - git branch -d (branch 이름) : (branch 이름) branch를 삭제
 - git add . :
 - git commit m "~~~~" : 현재 branch에 커멧
+- git merge --abort : 머지를 하다가 conflict가 발생하면, 일단 머지 작업 취소하고 이전 상태로 돌아감
+- git merge (기존 branch 이름) : 현재 branch에 다른 branch를 머지 (fast forward merge도 있다)
 ```
 
 **brance MERGE** 
