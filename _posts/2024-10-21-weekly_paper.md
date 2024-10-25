@@ -49,7 +49,7 @@ tags: [Codeit_WeeklyPaper]
 ```
 - git branch : 현재 존재하는 branch 출력
 - git branch (branch 이름) : 새로운 branch 생성
-- git checkout (branch 이름) : (branch 이름) branch로 이동
+- git checkout (branch 이름) : (branch 이름) branch로 이동 -> <중요> 사실 HEAD가 main과 premium 으로 이동하는 것
 - git checkout -b (branch 이름) : 새로운 branch 생성하고 그 생성된 branch로 바로 변경
 - git branch -d (branch 이름) : (branch 이름) branch를 삭제
 - git add . :
@@ -58,10 +58,12 @@ tags: [Codeit_WeeklyPaper]
 
 **brance MERGE** 
 main에 있는 기능을 premium에도 넣고 싶을 때 merge를 사용하여 합친다.
+헤드가 가리키던 커밋에 다른 브랜치가 가리키던 커밋을 합쳐서 새로운 커밋을 만드는 작업
+
 ```
 - git merge main : 현재 위치인 premium branch에 master branch를 합친다.
+- 현재 head가 premium을 가리키고 있을 때 다른 브랜치가 가리키던 커밋과 합쳐서 새로운 커밋을 만든 작업.
 ```
-git chekc
 ***merge에 실패하여 CONFLICT(충돌)이 발생하였을 때***
 `git merge --abort` 입력
 git status를 확인하여 conflict가 발생한 파일을 확인하여 문제가 있는 파일에 checkout하여 접속 후 문제를 해결
