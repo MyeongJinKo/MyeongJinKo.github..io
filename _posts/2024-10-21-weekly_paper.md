@@ -44,3 +44,14 @@ tags: [Codeit_WeeklyPaper]
 만약 오픈소스 프로그램을 만들어 배포하고 싶을 때 유료버전과 무료버전으로 구분할려 한다. 이 때 무료버전까지의 구현된 기능은 당연하게도 유료버전에서도 사용할 수 있다. 여기서 유료버전에서만 사용할 수 있도록 +a 기능을 별도로 구현하는 작업을 새로운 branch를 만든다고 볼 수 있다.
 
 ![git_branch](https://github.com/user-attachments/assets/e19bb617-b4e4-489d-a490-212ef8b70c2b)
+
+**branch 관련 명령**
+```
+- git branch : 현재 존재하는 branch 출력
+- git branch (branch 이름) : 새로운 branch 생성
+- git checkout (branch 이름) : (branch 이름) branch로 이동
+- git checkout -b (branch 이름) : 새로운 branch 생성하고 그 생성된 branch로 바로 변경
+- git branch -d (branch 이름) : (branch 이름) branch를 삭제
+```
+
+  
