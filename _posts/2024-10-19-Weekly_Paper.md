@@ -1,6 +1,10 @@
 ---
 layout: single
 title:  "파이썬 클래스(Class)와 인스턴스(Instance)는 무엇인가?"
+permalink: /about/
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 ---
 
 # Weekly-Paper with Codeit! Data Analyst_4
