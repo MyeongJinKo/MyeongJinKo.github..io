@@ -52,6 +52,16 @@ tags: [Codeit_WeeklyPaper]
 - git checkout (branch 이름) : (branch 이름) branch로 이동
 - git checkout -b (branch 이름) : 새로운 branch 생성하고 그 생성된 branch로 바로 변경
 - git branch -d (branch 이름) : (branch 이름) branch를 삭제
+- git add . :
+- git commit m "~~~~" : 현재 branch에 커멧
 ```
 
-  
+**brance MERGE** 
+main에 있는 기능을 premium에도 넣고 싶을 때 merge를 사용하여 합친다.
+```
+- git merge main : 현재 위치인 premium branch에 master branch를 합친다.
+```
+git chekc
+***merge에 실패하여 CONFLICT(충돌)이 발생하였을 때***
+`git merge --abort` 입력
+git status를 확인하여 conflict가 발생한 파일을 확인하여 문제가 있는 파일에 checkout하여 접속 후 문제를 해결
