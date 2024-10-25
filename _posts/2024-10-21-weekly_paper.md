@@ -1,5 +1,5 @@
 ---
-title: "절대경로와 상대경로는 무엇인가?"
+title: "절대경로와 상대경로 그리고 Git의 branch"
 author : Myeong Jin Ko
 date : 2024-10-21 23:46:00 UTC+9
 tags: [Codeit_WeeklyPaper]
@@ -32,3 +32,13 @@ tags: [Codeit_WeeklyPaper]
 **예시** 
 현재 내가 열어놓은 폴더는 `data`폴더이고 이 `data`폴더 안의 `train.csv`파일을 참조하는 방법은 `data/train.csv`이다.
 만약 `data`의 상위폴더인 `Titanic`폴더에서 `submission.csv`파일을 참조하고 싶을 때에는 `../submission.csv` 를 입력하면 된다.
+
+
+---------
+
+### branch 브렌치
+
+**branch** 는 쉽게 말해서 하나의 코드를 관리하는 흐름이라고 이해할 수 있다. branch는 나뭇가지라는 단어로 코드를 작성해가며 여러 수정된 버전이 존재한다.
+
+**예시**
+만약 오픈소스 프로그램을 만들어 배포하고 싶을 때 유료버전과 무료버전으로 구분할려 한다. 이 때 무료버전까지의 구현된 기능은 당연하게도 유료버전에서도 사용할 수 있다. 여기서 유료버전에서만 사용할 수 있도록 +a 기능을 별도로 구현하는 작업을 새로운 branch를 만든다고 볼 수 있다.
