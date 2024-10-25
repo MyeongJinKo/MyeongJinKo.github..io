@@ -42,3 +42,5 @@ tags: [Codeit_WeeklyPaper]
 
 **예시**
 만약 오픈소스 프로그램을 만들어 배포하고 싶을 때 유료버전과 무료버전으로 구분할려 한다. 이 때 무료버전까지의 구현된 기능은 당연하게도 유료버전에서도 사용할 수 있다. 여기서 유료버전에서만 사용할 수 있도록 +a 기능을 별도로 구현하는 작업을 새로운 branch를 만든다고 볼 수 있다.
+
+![git_branch](https://github.com/user-attachments/assets/e19bb617-b4e4-489d-a490-212ef8b70c2b)
