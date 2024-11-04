@@ -1,7 +1,7 @@
 ---
 title: "제1종 제2종 오류와 p-value"
 author : Myeong Jin Ko
-date : 2024-10-27 15:33:34 UTC+9
+date : 2024-10-26 15:33:34 UTC+9
 tags: [Codeit_WeeklyPaper]
 ---
 
