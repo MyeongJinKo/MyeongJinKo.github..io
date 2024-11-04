@@ -5,7 +5,7 @@ date : 2024-10-27 15:33:34 UTC+9
 tags: [Codeit_WeeklyPaper]
 ---
 
-## Weekly-Paper with Codeit! Data_Analyst_4
+## Weekly-Paper with Codeit Data_Analyst_4
 ---
 ### 제1종 오류와 제2종 오류
 
