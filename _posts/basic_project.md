@@ -15,9 +15,9 @@ tags: [Codeit_WeeklyPaper]
   - task 3 : 수집된 논문 및 뉴스자료, github 프로젝트 불필요한 정보 제외
 
 **오늘 한 일(필수)**
-  - task 1 :
-  - task 2 :
-  - task 3 :
+  - task 1 : 공공자전거 관련 논문 수집 및 요약본 작성 완료
+  - task 2 : 공공자전거 데이터 분석 관련 github 프로젝트 검색완료
+  - task 3 : 수집된 논문 및 뉴스자료, github 프로젝트 불필요한 정보 제외 분류 완료
 
 **내일 할 일**
   - task 1 :
