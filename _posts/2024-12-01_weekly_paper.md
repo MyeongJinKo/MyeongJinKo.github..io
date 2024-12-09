@@ -1,7 +1,7 @@
 ---
 title: "high-dimensional clustering 해결방법 및 주성분과 요인분석"
 author : Myeong Jin Ko
-date : 2024-12-01 08:00:00 UTC+9
+date : 2024-11-30 08:00:00 UTC+9
 tags: [Codeit_WeeklyPaper]
 ---
 
